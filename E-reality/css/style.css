@@ -59,6 +59,27 @@ p {
   line-height: 1.5;
   margin-bottom: 20px;
 }
+
+}
+footer {
+        background-color:white
+        color:black;}
+
+#just{
+      
+       text-align:right;}
+
+
+.badges .badge-link img{
+  height:36PX;
+  margin-right:20px;
+  float:left;
+
+
+}
+
+
+
 .navbar-default {
   background-color: white;
   border-color: rgba(34, 34, 34, 0.05);
@@ -1857,9 +1878,9 @@ section.contact ul.list-social li.social-google-plus a:hover {
   background-color: #d73925;
 }
 footer {
-  background-color: #222222;
+  background-color: white;
   padding: 25px 0;
-  color: rgba(255, 255, 255, 0.3);
+  color: black;
   text-align: center;
 }
 footer p {
@@ -1935,3 +1956,5 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
+
+
